@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20201205T080000Z
+DTEND:20201205T083000Z
+DTSTAMP:20201205T051640Z
+ORGANIZER;CN=shristirawat55@gmail.com:mailto:shristirawat55@gmail.com
+UID:4afe31ispat6ucb72ffvkmjua9@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=shristirawat55@gmail.com;X-NUM-GUESTS=0:mailto:shristirawat55@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=shatakchhianuj@gmail.com;X-NUM-GUESTS=0:mailto:shatakchhianuj@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=bhaskarug14@gmail.com;X-NUM-GUESTS=0:mailto:bhaskarug14@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=peeyush0111@gmail.com;X-NUM-GUESTS=0:mailto:peeyush0111@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:1531320883
+CREATED:20201205T051638Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a video call.\nJoin: https://meet.google.com/gxi-gwhu-
+ upx\n\nView your event at https://calendar.google.com/calendar/event?action
+ =VIEW&eid=NGFmZTMxaXNwYXQ2dWNiNzJmZnZrbWp1YTkgc2hhdGFrY2hoaWFudWpAbQ&tok=Mj
+ Qjc2hyaXN0aXJhd2F0NTVAZ21haWwuY29tZGUxM2YxZDQ1OWVhY2Q2MTdlNTg5ZTM4YzAyMjdmN
+ TNlOWE5ZmQyZQ&ctz=Asia%2FKolkata&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201205T051639Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Octa Health- Shatakchhi 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
